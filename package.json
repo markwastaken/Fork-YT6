@@ -1,0 +1,33 @@
+{
+  "name": "Night-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.1",
+    "alexa-bot-api": "^2.0.5",
+    "canvacord": "^5.2.0",
+    "canvas-senpai": "^2.0.3",
+    "discord-anti-spam": "^2.5.1",
+    "discord-buttons": "^4.0.0",
+    "discord-canvas": "^1.4.1",
+    "discord-xp": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mathjs": "^9.3.2",
+    "ms": "^2.1.3",
+    "pretty-ms": "^7.0.1",
+    "quick.xp": "^4.2.0",
+    "reconlx": "^1.2.41",
+    "superagent": "^6.1.0",
+    "weather-js": "^2.0.0",
+    "youtube-sr": "^4.0.7"
+  }
+}
